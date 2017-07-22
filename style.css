@@ -1,0 +1,58 @@
+body
+{
+  box-sizing: border-box;
+  background-image: url(image/background2.jpg);
+  color: lightgrey;
+}
+h1
+{
+text-align:center;
+color:#585858;
+}
+em
+{
+  color: lightgreen;
+  text-decoration: underline;
+}
+#contener
+{
+  display: inherit;
+}
+ul
+{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.attention
+{
+  text-decoration: underline;
+}
+.hr-art2,.hr-art1,.hr-art3,.hr-art4,.hr-art5,.hr-art6
+{
+  margin: 10%;
+}
+.page-footer
+{
+  text-align: center;
+}
+h2,p
+{
+  text-align: center;
+}
+a:hover
+{
+  color: purple;
+}
+a
+{
+  color: #58FAF4;
+}
+strong,p
+{
+  font-family: 'Ubuntu', sans-serif;
+}
+h1,hr
+{
+  color:lightgreen;
+}
